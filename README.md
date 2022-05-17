@@ -1,3 +1,5 @@
+![](https://github.com/PycmShoma/crDroidDynamicDualStatusbar/blob/main/assets/dual_status_bar.png)
+
 # crDroid Dynamic Dual Statusbar
 - Also including the experience of DSB
 
