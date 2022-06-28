@@ -9,5 +9,5 @@
 
 UNINSTALL THIS MODULE BEFORE UPDATING BUILD
 
-### Link
+### Download module
 - https://github.com/PycmShoma/crDroidDynamicDualStatusbar/releases
