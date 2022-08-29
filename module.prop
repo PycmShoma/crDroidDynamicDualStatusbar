@@ -1,6 +1,6 @@
-id=DS
-name=Double Statusbar
-version=2021.07.15
-versionCode=20210715
-author=Pycm
-description=Double left side of Statusbar. The count of notification icons displayed on the lock screen has been increased from 5 to 10. On statusbar has been increased from 3 to 8. For crDroid build 20210617. Uninstall before updating build
+id=DynamicDualStatusBar
+name=crDroid Dynamic Dual StatusBar
+version=2022.08.20
+versionCode=20220820
+author=Pycm [4PDA]
+description=The count of notification icons displayed on statusbar has been increased from 3 to 8. For crDroid build 2022.08.20. Uninstall before updating build
