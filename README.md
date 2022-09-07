@@ -14,3 +14,7 @@ Also including the experience of DSB
 
 ## Download
 [Releases](https://github.com/PycmShoma/crDroidDynamicDualStatusbar/releases)
+
+<!--
+![All Releases](https://img.shields.io/github/downloads/PycmShoma/crDroidDynamicDualStatusbar/total?label=Downloads%20%28All%20Releases%29&style=social)
+-->
