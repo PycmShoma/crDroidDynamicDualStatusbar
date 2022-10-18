@@ -5,7 +5,7 @@ Also including the experience of DSB
 
 ## Description
 - The count of notification icons displayed on statusbar has been increased from 3 to 8. 
-- Actuall module version for crDroid build 2022.10.13
+- Actuall module version for crDroid build 2022.10.16
 
 `UNINSTALL THIS MODULE BEFORE UPDATING BUILD`
 
