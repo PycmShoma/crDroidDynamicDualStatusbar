@@ -1,7 +1,7 @@
 # crDroid Dynamic Dual Statusbar
 Also including the experience of DSB
 
-![](https://github.com/PycmShoma/crDroidDynamicDualStatusbar/blob/main/assets/dual_status_bar.png) 
+![](/assets/dual_status_bar.png) 
 
 ## Description
 - The count of notification icons displayed on statusbar has been increased from 3 to 8. 
